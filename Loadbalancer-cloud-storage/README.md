@@ -1,1 +1,1 @@
-This Terramform code is uded to create a HTTPS Classic Load Balancer using Backend Bucket.
+This Terraform code is used to create a HTTPS Classic Load Balancer using Backend Bucket.
