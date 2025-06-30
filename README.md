@@ -1,1 +1,1 @@
-Automated creation of Loadbalencer with Backend as Cloud Storage Bucket
+Automated creation of Loadbalancer with Backend as Cloud Storage Bucket
